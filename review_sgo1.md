@@ -53,6 +53,7 @@ Besides, RNAP II bind physically sgo1 to recolate
 **positive feedback loop**:![](https://z3.ax1x.com/2021/10/17/5YFVpt.png)
 
 :cat:
+
 **explanin the discrepancy**: other experiment using triptolide(specifically inhibits the activity of the transcriptional initiation factor TFIIH) found trabscription is not essential to mitotic progression.
 **possibility**:
 1. effects of these inhibitors are not measured
